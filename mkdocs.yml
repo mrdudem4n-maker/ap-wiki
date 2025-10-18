@@ -1,0 +1,41 @@
+site_name: Apollo Wiki
+site_description: A collaborative knowledge base
+site_url: https://yourusername.github.io/apollo-wiki
+
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+    - content.code.annotate
+    - navigation.tabs
+    - navigation.expand
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - attr_list
+  - md_in_html
+  - wikilinks:
+      base_url: ''
+      end_url: '/'
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight
+
+plugins:
+  - search
+  - awesome-pages
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+
+repo_url: https://github.com/yourusername/apollo-wiki
+edit_uri: edit/main/docs/
