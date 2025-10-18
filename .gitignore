@@ -3,3 +3,7 @@ build
 npm-debug.log
 .env
 .DS_Store
+docs/.vitepress/cache
+.vscode/
+.idea/
+dist
