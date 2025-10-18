@@ -18,24 +18,24 @@ theme:
       primary: indigo
       accent: deep purple
 
+plugins:
+  - search
+  - ezlinks
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - awesome-pages
+  - glightbox
+
 markdown_extensions:
   - toc:
       permalink: true
   - admonition
   - attr_list
   - md_in_html
-  - wikilinks:
-      base_url: ''
-      end_url: '/'
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight
-
-plugins:
-  - search
-  - awesome-pages
-  - git-revision-date-localized:
-      fallback_to_build_date: true
+  - pymdownx.tabbed
 
 repo_url: https://github.com/yourusername/apollo-wiki
 edit_uri: edit/main/docs/

@@ -1,6 +1,6 @@
 mkdocs-material
-mkdocs-wikilinks-plugin
 mkdocs-git-revision-date-localized-plugin
 mkdocs-awesome-pages-plugin
 mkdocs-glightbox
 pymdown-extensions
+mkdocs-ezlinks-plugin
