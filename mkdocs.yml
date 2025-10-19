@@ -37,5 +37,5 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.tabbed
 
-repo_url: https://github.com/yourusername/apollo-wiki
+# repo_url: https://github.com/yourusername/apollo-wiki
 edit_uri: edit/main/docs/
