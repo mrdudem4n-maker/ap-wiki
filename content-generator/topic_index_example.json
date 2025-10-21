@@ -1,0 +1,43 @@
+{
+  "entities": {
+    "Charlie Kirk": {
+      "type": "person",
+      "wikilink": "charlie_kirk",
+      "file": "charlie-kirk.md",
+      "anchors": ["Kirk Family", "Turning Point Leadership"],
+      "aliases": ["Kirk", "Charlie", "CK", "The Kirks"],
+      "topics": ["Republican Movement", "TPUSA", "Political Influence"],
+      "related": ["Erika Kirk", "TPUSA"],
+      "stats": {
+        "mentions": 27,
+        "first_seen": "2025-10-17T08:20:00Z",
+        "last_seen": "2025-10-18T09:15:00Z"
+      }
+    },
+    "TPUSA": {
+      "type": "organization",
+      "wikilink": "tpusa",
+      "file": "tpusa.md",
+      "anchors": ["Turning Point", "Student Activism"],
+      "aliases": ["Turning Point", "TP", "TP USA", "Turning Point USA", "Turning Point U.S.A."],
+      "topics": ["Youth Conservatism", "Political Influence"],
+      "related": ["Charlie Kirk", "Erika Kirk"],
+      "stats": {
+        "mentions": 41,
+        "first_seen": "2025-10-15T10:00:00Z",
+        "last_seen": "2025-10-18T11:00:00Z"
+      }
+    }
+  },
+  "alias_index": {
+    "Kirk": { "value": "Charlie Kirk", "weight": 8 },
+    "Charlie": { "value": "Charlie Kirk", "weight": 3 },
+    "CK": { "value": "Charlie Kirk", "weight": 1 },
+    "The Kirks": { "value": "Charlie Kirk", "weight": 2 },
+    "Turning Point": { "value": "TPUSA", "weight": 6 },
+    "TP": { "value": "TPUSA", "weight": 10 },
+    "TP USA": { "value": "TPUSA", "weight": 4 },
+    "Turning Point USA": { "value": "TPUSA", "weight": 9 },
+    "Turning Point U.S.A.": { "value": "TPUSA", "weight": 2 }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Apollo Wiki Topic Index Schema (EZLinks Compatible)",
+  "description": "Unified topic and alias index for entity normalization, cross-linking, and timecode-based reference in the Apollo Wiki system. Designed for Obsidian + MkDocs ezlinks plugin compatibility.",
+  "type": "object",
+  "properties": {
+    "entities": {
+      "type": "object",
+      "description": "Canonical records for all entities and topics.",
+      "patternProperties": {
+        "^[A-Za-z0-9 _'\\-]+$": {
+          "type": "object",
+          "properties": {
+            "type": {
+              "type": "string",
+              "enum": ["person", "organization", "topic", "incident", "unknown"]
+            },
+            "wikilink": {
+              "type": "string",
+              "description": "Obsidian-style wikilink identifier (underscore_case)."
+            },
+            "file": {
+              "type": "string",
+              "description": "Markdown filename using hyphen-case, e.g. 'charlie-kirk.md'."
+            },
+            "anchors": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Optional section-level anchors for intra-page links."
+            },
+            "aliases": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Known variations or informal references."
+            },
+            "topics": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Abstract subjects associated with this entity."
+            },
+            "related": {
+              "type": "array",
+              "items": { "type": "string" },
+              "description": "Other canonical entities directly related."
+            },
+            "stats": {
+              "type": "object",
+              "properties": {
+                "mentions": { "type": "integer" },
+                "first_seen": { "type": "string", "format": "date-time" },
+                "last_seen": { "type": "string", "format": "date-time" }
+              },
+              "required": ["mentions"]
+            },
+            "sources": {
+              "type": "object",
+              "description": "Optional mapping of transcript filenames to timecodes.",
+              "additionalProperties": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          },
+          "required": ["wikilink", "file", "type"]
+        }
+      }
+    },
+    "alias_index": {
+      "type": "object",
+      "description": "Fast alias-to-entity mapping with frequency weights.",
+      "patternProperties": {
+        "^[A-Za-z0-9 _'\\.\\-]+$": {
+          "type": "object",
+          "properties": {
+            "value": {
+              "type": "string",
+              "description": "Canonical entity name this alias resolves to."
+            },
+            "weight": {
+              "type": "integer",
+              "minimum": 1,
+              "description": "Usage frequency or confidence for this alias."
+            }
+          },
+          "required": ["value", "weight"]
+        }
+      }
+    }
+  },
+  "required": ["entities", "alias_index"]
+}
