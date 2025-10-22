@@ -1,0 +1,1289 @@
+{
+  "entities": {
+    "candace_owens": {
+      "weight": 5,
+      "sources": [
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        }
+      ]
+    },
+    "fbi": {
+      "weight": 4,
+      "sources": [
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        }
+      ]
+    },
+    "tpusa": {
+      "weight": 3,
+      "sources": [
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        }
+      ]
+    },
+    "josh_hammer": {
+      "weight": 2,
+      "sources": [
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        }
+      ]
+    },
+    "charlie_kirk": {
+      "weight": 1,
+      "sources": [
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:00:00"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:02:34"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:05:01"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:06:47"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:08:23"
+        },
+        {
+          "file": "911-nostalgia-ad5.txt",
+          "timestamp": "00:10:45"
+        }
+      ]
+    }
+  }
+}
