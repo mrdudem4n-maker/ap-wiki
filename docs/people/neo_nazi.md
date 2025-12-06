@@ -1,0 +1,30 @@
+---
+title: neo-Nazi
+category: people
+tags: [neo_nazi]
+aliases: []
+summary_source: []
+last_updated: 2025-12-05T07:33:47.652505Z
+---
+## Overview
+neo-Nazi has been detected in the pipeline but lacks detailed summaries yet. Run additional transcripts or add manual notes to flesh out this entry.
+
+## In Discussions
+(No direct summaries found)
+
+## Detailed Analysis
+(No detailed articles found)
+
+## Related Topics
+(No related topics detected)
+
+## Sources
+(No timestamped references)
+
+
+## Metadata
+- **Mentions:** 6
+- **First Seen:** 1599.56
+- **Last Seen:** 4145.79
+- **Aliases:** —
+

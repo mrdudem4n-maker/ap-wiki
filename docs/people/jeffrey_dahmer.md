@@ -1,0 +1,30 @@
+---
+title: jeffrey dahmer
+category: people
+tags: [jeffrey_dahmer]
+aliases: [dahmer, jeffrey]
+summary_source: []
+last_updated: 2025-12-05T07:34:18.715819Z
+---
+## Overview
+jeffrey dahmer has been detected in the pipeline but lacks detailed summaries yet. Run additional transcripts or add manual notes to flesh out this entry.
+
+## In Discussions
+(No direct summaries found)
+
+## Detailed Analysis
+(No detailed articles found)
+
+## Related Topics
+(No related topics detected)
+
+## Sources
+(No timestamped references)
+
+
+## Metadata
+- **Mentions:** 3
+- **First Seen:** 2025-12-05T07:09:36.735083Z
+- **Last Seen:** 436.56
+- **Aliases:** dahmer, jeffrey
+
